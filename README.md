@@ -1,4 +1,3 @@
-# observer-pattern-weather-station
 <h1 align="right">Observer Pattern Weather Station</h1><br>
 
 ## Table of contents
